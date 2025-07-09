@@ -70,13 +70,14 @@ I’m a passionate Electronics and Communication Engineer.<br>
 <h3 align="left">🛠️ Hardware Platforms & Tools I Use</h3>
 
 <div align="center">
-  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/altium-altium-designer.png?raw=true" height="100" alt="Altium Designer" />
-  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/307px-Xilinx_image.jpg?raw=true" height="120" alt="Vivado / Xilinx" />
-  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/unnamed.png?raw=true" height="100" alt="EDAPlayground" />
-  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/Icarus_Verilog_logo2.png?raw=true" height="100" alt="Icarus Verilog" />
-  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/Gtkwave_256x256x32.png?raw=true" height="100" alt="GTKWave" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/altium-altium-designer.png?raw=true" height="100" alt="Altium Designer" style="margin-right: 15px;" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/307px-Xilinx_image.jpg?raw=true" height="120" alt="Vivado / Xilinx" style="margin-right: 15px;" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/unnamed.png?raw=true" height="100" alt="EDAPlayground" style="margin-right: 15px;" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/Icarus_Verilog_logo2.png?raw=true" height="100" alt="Icarus Verilog" style="margin-right: 15px;" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/Gtkwave_256x256x32.png?raw=true" height="100" alt="GTKWave" style="margin-right: 15px;" />
   <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/logo.png?raw=true" height="100" alt="Yosys" />
 </div>
+
 
 
 
