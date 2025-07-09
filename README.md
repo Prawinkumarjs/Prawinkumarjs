@@ -1,14 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prawinkumarjs/Prawinkumarjs/main/assets/Linkedin%20Banner%20.png" alt="Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi there 👋, I'm Prawin Kumar J S</h1>
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFBF&background=00000000&center=true&vCenter=true&width=800&lines=🚀+ECE+Engineer+|+Embedded+%26+FPGA+Systems;📟+PCB+Designer+%7C+Frontend+Developer+%7C+VLSI+%26+Digital+Design">
+</h1>
 
-<h2 align="left">🚀 ECE Engineer | Embedded Systems & FPGA Enthusiast | Frontend Developer | PCB Designer | VLSI</h2>
 
-###
-
-<p align="left">I'm a passionate Electronics and Communication Engineer  <br>🔭 I’m currently working on: Embedded Systems, Verilog,  and IoT Projects  <br>🌱 I’m currently learning: FPGA | VHDL | Verilog | System Design  <br>💬 Ask me about: PCB Design, Microcontrollers, or Verilog  <br>👯 I’m looking to collaborate on: Open-source electronics, hardware, or FPGA-based projects  <br>⚡ Fun fact: I love building custom hardware from scratch!</p>
-
-###
+<p align="left">
+I’m a passionate Electronics and Communication Engineer.<br>
+🔭 Currently working on: Embedded Systems, Verilog, and IoT Projects<br>
+🌱 Actively learning: FPGA, VHDL, System Design, and Verilog<br>
+💬 Ask me about: PCB Design, Microcontrollers, and Verilog<br>
+👯 Open to collaborating on: Open-source electronics, hardware, and FPGA-based projects<br>
+⚡ Fun fact: I love building custom hardware from scratch!
+</p>
 
 <h3 align="left">I Code In / Languages Known</h3>
 
@@ -55,26 +64,39 @@
           
 </div>
 
-###
 
-<p align="left">Connect With Me</p>
 
-###
+
+<h3 align="left">🛠️ Hardware Platforms & Tools I Use</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/prawin-kumar-j-s" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/prawinkumar011" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/prawink554" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="mailto:prawink554@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/altium-altium-designer.png?raw=true" height="100" alt="Altium Designer" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/307px-Xilinx_image.jpg?raw=true" height="120" alt="Vivado / Xilinx" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/unnamed.png?raw=true" height="100" alt="EDAPlayground" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/Icarus_Verilog_logo2.png?raw=true" height="100" alt="Icarus Verilog" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/Gtkwave_256x256x32.png?raw=true" height="100" alt="GTKWave" />
+  <img src="https://github.com/Prawinkumarjs/Prawinkumarjs/blob/main/assets/logo.png?raw=true" height="100" alt="Yosys" />
 </div>
+
+
+
+
+
+
+
+
+
+
+##
+<h3 align="left">📌 Featured Projects</h3>
+
+- 🔌 [ESP32 Custom PCB Design](https://github.com/Prawinkumarjs/ESP32-with-USBC)
+- ⚖️ [IoT Weighing Scale](https://github.com/Prawinkumarjs)
+- 💨 [Gas Detection System (RISC-V)](https://github.com/Prawinkumarjs/VSDSquadron-mini-internship)
+
+
+
+
 
 ###
 
@@ -111,4 +133,28 @@
 
 
 
-###
+
+
+
+
+## 💼 Connect with Me  
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/smiling-face_263a-fe0f.png" alt="Big Smile Emoji" width="140px" align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Prawinkumarjs-181717?style=for-the-badge&logo=github)](https://github.com/Prawinkumarjs)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prawin%20Kumar%20J%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prawin-kumar-j-s)  
+[![Email](https://img.shields.io/badge/Gmail-prawink554%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prawink554@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-6380992144-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6380992144)  
+
+
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&background=1A1B26&center=true&vCenter=true&width=700&lines=+THANK+YOU+FOR+VISITING+MY+GITHUB+PROFILE!+;🚀+Let's+build+something+amazing+together!">
+</h2>
+
+
+
+
