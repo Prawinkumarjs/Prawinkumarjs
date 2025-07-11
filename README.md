@@ -91,8 +91,7 @@ I’m a passionate Electronics and Communication Engineer.<br>
 ##
 <h3 align="left">📌 Featured Projects</h3>
 
-- 🔌 [ESP32 Custom PCB Design](https://github.com/Prawinkumarjs/ESP32-with-USBC)
-- ⚖️ [IoT Weighing Scale](https://github.com/Prawinkumarjs)
+- 🔌 [ESP32 Custom PCB Design](https://github.com/Prawinkumarjs/Altium-Projects/tree/main/ESP32%20with%20USBC)
 - 💨 [Gas Detection System (RISC-V)](https://github.com/Prawinkumarjs/VSDSquadron-mini-internship)
 
 
@@ -104,6 +103,8 @@ I’m a passionate Electronics and Communication Engineer.<br>
 <p align="left">GitHub Stats & Streak</p>
 
 ###
+
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Prawinkumarjs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
